@@ -1,6 +1,6 @@
 # Building AI-Powered Web3 & Agent Systems
 
-Exploring the intersection of AI agents and Web3 — building autonomous systems, smart contracts, and intelligent applications.
+Exploring the intersection of AI agents and Web3 building autonomous systems, smart contracts, and intelligent applications.
 
 ---
 
@@ -15,23 +15,9 @@ Exploring the intersection of AI agents and Web3 — building autonomous systems
 - Dec 14 — Afro-Pop Ticket — VIBE CODE — 1st Place  
 - Jan 5 — Grok Prompthathon — Creative Winner
 - BOS Hackathon — 3rd Place
-
-### Additional Achievement
 - https://devpost.com/software/surgicalai  
 - https://devpost.com/software/genie-1muk2z  
 - https://devpost.com/software/braindump-nek3cg
-
----
-
-## Projects
-
-
-
----
-
-## Devpost Profile
-
-[![Devpost](https://img.shields.io/badge/Devpost-Profile-blue?style=for-the-badge&logo=devpost)](https://devpost.com/ibrahimpima76/challenges)
 
 ---
 
