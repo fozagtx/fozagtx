@@ -2,7 +2,7 @@
 
 Building ai-powered web3 and  ai agent intersections
 
-## 🏆15x Hackathon Wins
+## 🏆16x Hackathon Wins
 
 - Aug 28 - Nemo3 - Civic Auth Hackathon - 🥇 First Prize
 - Sep 7 -  Growth - Civic Auth Second Round - Winner
@@ -12,6 +12,10 @@ Building ai-powered web3 and  ai agent intersections
 - Dec 8 - Curious Quench - Somnia SDS - Top Project.
 - Dec 14 - Afro -Pop Ticket Winner - VIBE CODE - 1st winner
 -Jan 5th  - Grok Prompthathon Creative winner
+https://devpost.com/software/surgicalai
+https://devpost.com/software/genie-1muk2z
+https://devpost.com/software/braindump-nek3cg
+The BOS Hackathon 3rd place 
 
 [![Devpost](https://img.shields.io/badge/Devpost-Profile-blue?style=for-the-badge&logo=devpost)](https://devpost.com/ibrahimpima76/challenges)
 
