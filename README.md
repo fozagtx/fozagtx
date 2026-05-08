@@ -4,7 +4,7 @@ Exploring the intersection of AI agents and Web3 building autonomous systems, sm
 
 ---
 
-## Hackathon Wins (16x)
+## Hackathon Wins (18x)
 
 - Aug 28 — Nemo3 — Civic Auth Hackathon — First Prize  
 - Sep 7 — Growth — Civic Auth (Second Round) — Winner  
@@ -18,6 +18,11 @@ Exploring the intersection of AI agents and Web3 building autonomous systems, sm
 - https://devpost.com/software/surgicalai  
 - https://devpost.com/software/genie-1muk2z  
 - https://devpost.com/software/braindump-nek3cg
+- anything hackathon(nonchlant winner) - 2026
+- zo computer top bonus prize winner - 2025
+- cline hackathon review winner- 2025
+- arc nanopayment hachathon 1st place for featherlessAi track- 2026
+- anython hackathon bonus prize - 2025
 
 ---
 
