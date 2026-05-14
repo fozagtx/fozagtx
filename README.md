@@ -1,4 +1,4 @@
-# Building AI-Powered Web3 & Agent Systems
+# Building Agent Systems in web3/web2 
 
 Exploring the intersection of AI agents and Web3 building autonomous systems, smart contracts, and intelligent applications.
 
