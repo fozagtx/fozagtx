@@ -22,7 +22,8 @@ Exploring the intersection of AI agents and Web3 building autonomous systems, sm
 - zo computer top bonus prize winner - 2025
 - cline hackathon review winner- 2025
 - arc nanopayment hachathon 1st place for featherlessAi track- 2026
-- anython hackathon bonus prize - 2025
+- anything hackathon bonus prize - 2025
+- Arc usdc x402 winner 2026- project ShadowNPM
 
 ---
 
